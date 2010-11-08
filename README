@@ -1,0 +1,16 @@
+KaraCos web platform engine client for desktop computers
+
+Automatic Installer for KaraCos core and client dependencies.
+Automatic installer for KaraCos v2 server
+
+Requirements :
+System, REQUIRED TO RUN DESKTOP :
+	Python 2.6 with TkInter (bundled in portablepython for windows)
+
+Installed by software (* may ask for Adm access)
+*[couchdb]
+*[Crypto]
+
+these are pure python and installed by Desktop software
+-[paramiko]
+-[webob] -> [zope.interface]
